@@ -1,0 +1,38 @@
+# Auto-generated files after running tutorials
+.tsv
+.zip
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+#PyCharm
+.idea/
+
+# shell scripts (e.g. used with fswatch)
+*.sh
+
+/docs/tmpl.conf.py
+/docs/tmpl.index.rst
+
+# coverage output
+/tests/coverage/htmlcov
+.coverage*
+coverage.xml
+
+# duecredit output
+.duecredit.p
+
+# tox
+.tox
+
+# vscode
+.vscode/
+
+#mypy
+.mypy_cache/
+
+#DS_Store
+.DS_Store
+
+#sqlite
+.sqlite
