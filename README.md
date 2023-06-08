@@ -13,19 +13,18 @@ sharing and storing neurophysiology data, to facilitate adoption through integra
 data ecosystem, while also giving users a deep set of tools to more easily create and manage data in 
 compliance with controlled term sets.
 
-This repository hosts examples, tutorials, and the in development publication of NERD.
+This repository hosts examples, tutorials, and the in-development publication of NERD.
 
 Installation
 ============
-To run the tutorials, follow the instructions to install the latest version of HDMF and PyNWB.
+To run the tutorials, first install the latest versions of PyNWB and HDMF:
 
-HDMF
-====
-- Documentation of HDMF can be found at https://hdmf.readthedocs.io.
-- The repository and install instructions for HDMF can be found at https://github.com/hdmf-dev/hdmf.
+```bash
+pip install -U pynwb hdmf
+```
 
-PyNWB
-=====
-- Documentation of HDMF can be found at https://pynwb.readthedocs.io.
-- The repository and install instructions for HDMF can be found at https://github.com/nwb/pynwb.
-
+API Documentation
+=================
+To learn more about the Python API for NWB (PyNWB) and the Hierarchical Data Modeling Framework (HDMF), 
+which support NERD, see the [PyNWB documentation](https://pynwb.readthedocs.io/en/stable/) and the 
+[HDMF documentation](https://hdmf.readthedocs.io/en/stable/).
