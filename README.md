@@ -21,8 +21,8 @@ To run the tutorials, follow the instructions to install the latest version of H
 
 HDMF
 ====
-Documentation of HDMF can be found at https://hdmf.readthedocs.io.
-The repository and install instructions for HDMF can be found at https://github.com/hdmf-dev/hdmf.
+- Documentation of HDMF can be found at https://hdmf.readthedocs.io.
+- The repository and install instructions for HDMF can be found at https://github.com/hdmf-dev/hdmf.
 
 PyNWB
 =====
