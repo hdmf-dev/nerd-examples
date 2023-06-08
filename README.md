@@ -26,6 +26,6 @@ The repository and install instructions for HDMF can be found at https://github.
 
 PyNWB
 =====
-Documentation of HDMF can be found at https://pynwb.readthedocs.io.
-The repository and install instructions for HDMF can be found at https://github.com/nwb/pynwb.
+- Documentation of HDMF can be found at https://pynwb.readthedocs.io.
+- The repository and install instructions for HDMF can be found at https://github.com/nwb/pynwb.
 
